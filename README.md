@@ -1,6 +1,5 @@
 # git-learning-repo
 Test repo to teach git operations
 
-
-
-New edits from Dhana!
+1. Lesson on merge conflicts.
+2. Edited to resolve merge conflicts.
